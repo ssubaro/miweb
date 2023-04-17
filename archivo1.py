@@ -9,3 +9,5 @@ Kiara = gato()
 Kiara.color_de_ojos="verdes"
 Kiara.color_de_pelaje="blanco, negro y cafe"
 Kiara.__init__()
+
+chanchito_feliz = 2
